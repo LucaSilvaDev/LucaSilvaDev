@@ -2,37 +2,41 @@
 
 # 👋🏻 Bem-vindo ao meu perfil
 
-Sou **Analista de TI** e estudante de **Análise e Desenvolvimento de Sistemas** na Universidade Católica de Brasília. Também estou me especializando em **SQL** pela **EBAC**, com o objetivo de me tornar um **DBA (Database Administrator)**.
+Sou **Analista de TI** e estudante de **Análise e Desenvolvimento de Sistemas** na Universidade Católica de Brasília. Também estou me especializando em **SQL** pela **EBAC**, com foco em me tornar **DBA**.
 
-Atualmente atuo na gestão de infraestrutura e banco de dados, sempre buscando automação e soluções inteligentes com **IA** e **Python**. 🚀
+Atualmente trabalho na Unifardas Confeccoes com **TOTVS Moda** e realizei a implantação do sistema **TOTVS RM**. Sou apaixonado por tecnologia e estou sempre me atualizando e dedicando 12h semanais de estudos e inclusive com especialização em **Engenharia de Prompt** para IA. 🚀
 
 ## Minhas Skills
 
-**🗄️ Banco de Dados (Foco DBA)**
+**💻 Front-end & Web**
+
+![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=CSS3&logoColor=1572B6)
+![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![JSON](https://img.shields.io/badge/-JSON-333333?style=flat&logo=json&logoColor=white)
+
+**🗄️ Banco de Dados (DBA Focus) & Back-end**
 
 ![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=microsoft-sql-server&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
-
-**💻 Desenvolvimento & Scripting**
-
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python&logoColor=yellow)
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 
-**🤖 Inteligência Artificial & Ferramentas**
+**⚙️ Infraestrutura, ERP & Ferramentas**
 
-![Gemini](https://img.shields.io/badge/-Google%20Gemini-333333?style=flat&logo=google&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker&logoColor=2496ED)
+![TOTVS](https://img.shields.io/badge/-TOTVS-333333?style=flat&logo=thumbtack&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-![TOTVS](https://img.shields.io/badge/-TOTVS-333333?style=flat&logo=thumbtack&logoColor=white)
 
-## 📊 GitHub Stats  
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_GITHUB&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=0075FF&rank_icon=github&icon_color=F8D866"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_GITHUB&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=0075FF&icon_color=F8D866&hide=HTML,Jupyter%20Notebook"/>
-</div>
+**🤖 Inteligência Artificial**
+
+![Gemini](https://img.shields.io/badge/-Google%20Gemini-333333?style=flat&logo=google&logoColor=white)
+![Prompt Engineering](https://img.shields.io/badge/-Prompt%20Engineering-333333?style=flat&logo=openai&logoColor=white)
 
 ## 🌍 Vamos nos conectar?
 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lucasunifardas@gmail.com)](mailto:lucasunifardas@gmail.com)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/)](https://www.linkedin.com/)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-souza-827503283/)](https://www.linkedin.com/in/lucas-souza-827503283/)
+

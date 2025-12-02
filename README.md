@@ -2,7 +2,7 @@
 
 # 👋🏻 Bem-vindo ao meu perfil
 
-Sou **Analista de TI** e estudante de **Análise e Desenvolvimento de Sistemas** na Universidade Católica de Brasília. Também estou me especializando em **SQL** pela **EBAC**, com foco em me tornar **DBA**.
+Sou **Analista de TI** e estudante de **Análise e Desenvolvimento de Sistemas** na Universidade Católica de Brasília. Também estou me especializando em **SQL** pela **EBAC** e **Data Science Academy**, com foco em me tornar **DBA**.
 
 Atualmente trabalho na Unifardas Confeccoes com **TOTVS Moda** e realizei a implantação do sistema **TOTVS RM**. Sou apaixonado por tecnologia e estou sempre me atualizando e dedicando 12h semanais de estudos e inclusive com especialização em **Engenharia de Prompt** para IA. 🚀
 

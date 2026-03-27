@@ -4,7 +4,7 @@
 
 Sou **Analista de TI** e estudante de **Análise e Desenvolvimento de Sistemas** na Universidade Católica de Brasília. Também estou me especializando em **SQL** pela **EBAC** e **Data Science Academy**, com foco em me tornar **DBA**.
 
-Atualmente trabalho na Unifardas Confeccoes com **TOTVS Moda** e realizei a implantação do sistema **TOTVS RM**. Sou apaixonado por tecnologia e estou sempre me atualizando e dedicando 12h semanais de estudos e inclusive com especialização em **Engenharia de Prompt** para IA. 🚀
+Atualmente trabalho na Unifardas Confecções com **TOTVS Moda** e realizei a implantação do sistema **TOTVS RM**. Sou apaixonado por tecnologia, dedicando mais de 12h semanais aos estudos, com especialização em **Engenharia de Prompt** e utilização avançada de IAs para otimização de fluxos de trabalho. 🚀
 
 ## Minhas Skills
 
@@ -30,10 +30,14 @@ Atualmente trabalho na Unifardas Confeccoes com **TOTVS Moda** e realizei a impl
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 
-**🤖 Inteligência Artificial**
+**🤖 Inteligência Artificial & IA Coding (Advanced/Paid Features)**
 
-![Gemini](https://img.shields.io/badge/-Google%20Gemini-333333?style=flat&logo=google&logoColor=white)
-![Prompt Engineering](https://img.shields.io/badge/-Prompt%20Engineering-333333?style=flat&logo=openai&logoColor=white)
+![Claude 4.6 Opus](https://img.shields.io/badge/-Claude%204.6%20Opus%20(Pro)-333333?style=flat&logo=anthropic&logoColor=white)
+![Claude 4.6 Sonnet](https://img.shields.io/badge/-Claude%204.6%20Sonnet%20(Pro)-333333?style=flat&logo=anthropic&logoColor=white)
+![Cursor](https://img.shields.io/badge/-Cursor%20(AI%20Cowork)-333333?style=flat&logo=cursor&logoColor=white)
+![Gemini Ultra](https://img.shields.io/badge/-Google%20Gemini%20(Advanced)-333333?style=flat&logo=google&logoColor=white)
+
+> 💡 **Destaque:** Especialista em automação e arquitetura de dados utilizando o ecossistema pago da Anthropic (**Claude 4.6**) e Google. Expertise em co-working de código via **Cursor** para desenvolvimento acelerado e consultas SQL complexas.
 
 ## 🌍 Vamos nos conectar?
 

@@ -4,7 +4,7 @@
 
 Sou **Analista de TI** e estudante de **Análise e Desenvolvimento de Sistemas** na Universidade Católica de Brasília. Também estou me especializando em **SQL** pela **EBAC** e **Data Science Academy**, com foco em me tornar **DBA**.
 
-Atualmente trabalho na Unifardas Confecções com **TOTVS Moda** e realizei a implantação do sistema **TOTVS RM**. Sou apaixonado por tecnologia, dedicando mais de 12h semanais aos estudos, com especialização em **Engenharia de Prompt** e utilização avançada de IAs para otimização de fluxos de trabalho. 🚀
+Tenho Experiência com **TOTVS Moda** e realizei a implantação do sistema **TOTVS RM**. Sou apaixonado por tecnologia, dedicando mais de 12h semanais aos estudos, com especialização em **Engenharia de Prompt** e utilização avançada de IAs para otimização de fluxos de trabalho. 🚀
 
 ## Minhas Skills
 

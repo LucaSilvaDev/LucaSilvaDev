@@ -33,6 +33,7 @@ Analista de TI e estudante de Análise e Desenvolvimento de Sistemas (UCB), me e
     <td width="50%">
       <h4>🔹 <a href="https://github.com/LucaSilvaDev/logos">Logos</a></h4>
       Plataforma de estudos bíblicos reformada — leitor, devocional e plano de leitura.<br/><br/>
+      <a href="https://logos-flame-tau.vercel.app"><img src="https://img.shields.io/badge/demo-ver%20online-38BDF8?style=flat-square" /></a>
       <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
     </td>
   </tr>
